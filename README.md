@@ -21,4 +21,5 @@ Preprocessing and vectorising the user input:
 user_input = preprocess_and_vectorize(user_input)
 ```
 
-Let's say user entered ""
+Let's say user entered "What is meaning of life?"<br>
+Then our program will give the following output:<br>
