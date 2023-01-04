@@ -22,4 +22,5 @@ user_input = preprocess_and_vectorize(user_input)
 ```
 
 Let's say user entered "What is meaning of life?"<br>
-Then our program will give the following output:<br>
+Then our program will give the following output:<br><br>
+![rec res](https://user-images.githubusercontent.com/70089229/210482465-c1e81729-9ccb-4499-8af5-313df6b28941.png)
